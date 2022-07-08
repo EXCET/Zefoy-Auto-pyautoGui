@@ -4,6 +4,8 @@ import pydirectinput
 
 time.sleep(1)
 
+#EXCET#4508
+
 count = 0
 while (count < 999999):
   pyautogui.click()
